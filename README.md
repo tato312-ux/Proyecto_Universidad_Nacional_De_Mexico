@@ -37,7 +37,7 @@ Se abordan las siguientes etapas:
 
 ##  Resultados
 
-- Accuracy: [Agrega aquí tu resultado]  
+- Accuracy: [0,96]  
 - Observaciones:
   - El modelo permite identificar patrones en secuencias biológicas
   - El rendimiento depende de la calidad del dataset
